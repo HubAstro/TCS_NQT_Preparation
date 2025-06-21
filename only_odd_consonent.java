@@ -15,7 +15,7 @@ public class only_odd_consonent {
 				if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'O' || ch == 'U') {
 					continue;
 				}else {
-					System.out.print(ch+",");
+					System.out.println(ch);
 				}
 			}
 		}

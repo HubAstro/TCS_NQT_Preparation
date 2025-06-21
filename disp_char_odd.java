@@ -1,6 +1,5 @@
 package tcs;
 
-
 /* Find Characters of a string at odd index
  * Arijit = rjt
  * priyanka = ryna
